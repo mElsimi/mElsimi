@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
 ### Hi there 👋
 <i class="fa-regular fa-user"></i>
 <h1>Hello to my Profile</h1>

@@ -5,13 +5,13 @@
   
 
 <p align="left">
-<a href=https://github.com/mElsimi/readme-components">
+<a href=https://github.com/mElsimi/readme-components"a>
 <img  src="https://readme-components.vercel.app/api?component=text&text=IM%20mElhsimi&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
 </a>
 </p>  
 
 <p align="left">
-<a href="[https://github.com/harish-sethuraman/readme-components](https://github.com/mElsimi/mElsimi/edit/main/README.md)">
+<a href="https://github.com/mElsimi/mElsimi/edit/main/README.md-components">
 <img  src="https://github.com/mElsimi/mElsimi/edit/main/README.md=experience&company=CRED_CLUB&role=Frontend%20Engineer%20&location=Bangalore&fill=black">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">

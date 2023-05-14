@@ -1,5 +1,7 @@
 ### Hi there 👋
+<i class="fa-regular fa-user"></i>
 <h1>Hello to my Profile</h1>
+
 <!--
 **mElsimi/mElsimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
